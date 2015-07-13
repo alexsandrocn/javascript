@@ -11,3 +11,11 @@ var divideByThree = function (number) {
 // Dizemos ao computador qual e o numero de entrada (ou seja, 6)
 // O computador entao executa o codigo dentro da funcao!
 divideByThree(5);
+-----------------------------------------------------------
+
+var greeting = function (name) {
+    console.log("Que bom ver você," + " " + name);
+};
+
+// Na linha 11, chame a função greeting!
+greeting(name);
