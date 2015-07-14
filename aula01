@@ -19,3 +19,13 @@ var greeting = function (name) {
 
 // Na linha 11, chame a função greeting!
 greeting(name);
+------------------------------------------------------------
+// Escreva sua funcao foodDemand abaixo
+// Última dica: no seu bloco reutilizável de código, finalize cada linha com um
+// ponto e virgula (;)
+var foodDemand = function(food){
+     console.log("Quero comer" + " " + food);
+      
+};
+
+foodDemand("bolo de chocolate");  
